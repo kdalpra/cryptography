@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28660303666",
+    "firebase_url": "https://secret-message-maker.firebaseio.com",
+    "project_id": "secret-message-maker",
+    "storage_bucket": "secret-message-maker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28660303666:android:4c92f2276ec3dff88e392b",
+        "android_client_info": {
+          "package_name": "wildsteelerfan.tksec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28660303666-vhng910i92qmq1r11c94ibu3eq1s4u7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6DKDnDA2E-i1C3-DH4sCyEuRV0YYXFyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28660303666-vhng910i92qmq1r11c94ibu3eq1s4u7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
